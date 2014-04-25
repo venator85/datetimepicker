@@ -13,6 +13,6 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:minHeight="48dip"
-        android:text="@string/done_label"
+        android:text="@android:string/ok"
         style="?android:attr/buttonBarButtonStyle" />
 </LinearLayout>
